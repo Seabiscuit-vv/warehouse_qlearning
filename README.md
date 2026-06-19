@@ -1,2 +1,5 @@
 # warehouse_qlearning
 基于知识迁移强化学习的多机器人智能仓储路径规划方法研究
+运行warehouse_test.py即可进行训练 可通过断点处进行测试
+new_small_maze.py用于搭建环境
+plot.py和path.py用于相关绘图
